@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "380773849782",
+    "firebase_url": "https://vartalaap-2cf35.firebaseio.com",
+    "project_id": "vartalaap-2cf35",
+    "storage_bucket": "vartalaap-2cf35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380773849782:android:8dc513219570b272402417",
+        "android_client_info": {
+          "package_name": "co.rrohitappsite.vartalaap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380773849782-dgo9mlmlvt6f6ibdk62qpqe96evuqhqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUnVvkF8-PvL3DzsfJQ9ZyrChP5onUGYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380773849782-dgo9mlmlvt6f6ibdk62qpqe96evuqhqe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
